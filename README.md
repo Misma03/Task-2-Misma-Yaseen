@@ -1,6 +1,6 @@
 # Project 2: Exploratory Data Analysis (EDA)
 
-**Internship:** DecodeLabs – Data Analytics Industrial Training (Batch 2026)
+**Internship:** DecodeLabs  Data Analytics Industrial Training (Batch 2026)
 
 ##  Objective
 Analyze the cleaned dataset to uncover patterns, trends, outliers, and relationships between variables — transforming a static table of numbers into meaningful, actionable insights.
