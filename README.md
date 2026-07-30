@@ -42,9 +42,9 @@ Analyze the cleaned dataset to uncover patterns, trends, outliers, and relations
 | Median Quantity | 3.00 |
 
 **Top 3 Products by Revenue:**
-1. Chair — $195,620.11
-2. Printer — $195,612.61
-3. Laptop — $192,126.56
+1. Chair  $195,620.11
+2. Printer  $195,612.61
+3. Laptop  $192,126.56
 
 **Order Status Distribution (Top 3):**
 - Cancelled: 250 orders
